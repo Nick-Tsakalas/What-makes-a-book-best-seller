@@ -2,7 +2,7 @@
 ==============================================================
 # What makes a book best seller
 
-Worked on as part of Big Blue Data Academy's training program in data science.
+Worked on as part of Big Blue Data Academy's training program in data science. Duration: 1 day
 
 Identified the most popular book categories, months for publication and pricing strategy.
 
