@@ -6,13 +6,13 @@ Worked on as part of Big Blue Data Academy's training program in data science.
 
 Identified the most popular book categories, months for publication and pricing strategy.
 
-## Participants
+## Participants:
 ------------
 
     ├── Nikolaos Tsakalas
     └── Athanasios Alexandrakis
 
-## Project Organization
+## Project Organization:
 ------------
 
     ├── README.md          <- The top-level README for navigating this project.
